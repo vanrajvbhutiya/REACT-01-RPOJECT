@@ -9,12 +9,12 @@ const Contact = () => {
         <form>
           <div>
             <label>Name</label>
-            <input type="text" required placeholder="Abc" />
+            <input type="text" required placeholder="enter your email" />
           </div>
 
           <div>
             <label>Email</label>
-            <input type="email" required placeholder="Abc@xyz.com" />
+            <input type="email" required placeholder="vanrajbhutiya09@gmail.com" />
           </div>
           <div>
             <label>Message</label>
